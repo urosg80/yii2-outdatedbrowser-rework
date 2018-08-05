@@ -3,7 +3,7 @@
     "description": "Yii2 Outdated Browser Rework Widget",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "outdated browser", "outdated browser rework"],
-    "license": "BSD-3 Clause",
+    "license": "BSD-3-Clause",
     "version": "1.0.0",
     "support": {
         "issues": "https://github.com/urosg80/yii2-outdatedbrowser-rework/issues?status=new&status=open",
