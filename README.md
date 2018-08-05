@@ -55,5 +55,5 @@ echo OutdatedBrowserReword::widget([
     ]
 ]);
 ```
-# License
+## License
 yii2-outdated-browser-rework is released under the BSD-3 Clause license. See the bundled LICENSE file for details.
