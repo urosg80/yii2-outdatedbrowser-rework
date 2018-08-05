@@ -1,0 +1,28 @@
+{
+    "name": "urosg/yii2-outdated-browser-rework",
+    "description": "Yii2 Outdated Browser Rework Widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "outdated browser", "outdated browser rework"],
+    "license": "BSD-3 Clause",
+    "version": "1.0.0",
+    "support": {
+        "issues": "https://github.com/urosg80/yii2-outdatedbrowser-rework/issues?status=new&status=open",
+        "source": "https://github.com/urosg80/yii2-outdatedbrowser-rework"
+    },
+    "authors": [
+        {
+            "name": "Uros Gaber",
+            "email": "uros@gaber.in",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "npm-asset/outdated-browser-rework": "~2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "urosg\\widgets\\OutdatedBrowserRework\\": "src"
+        }
+    }
+}
