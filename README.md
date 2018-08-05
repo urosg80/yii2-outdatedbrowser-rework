@@ -26,10 +26,10 @@ Refer to the CHANGELOG for details of release changes.
 use urosg\widget\OutdatedBrowserRework;
 
 // To use default configuration
-OutdatedBrowserRework::widget();
+echo OutdatedBrowserRework::widget();
 
 // To specify custom configuration - listed are default settings
-OutdatedBrowserReword::widget([
+echo OutdatedBrowserReword::widget([
     'requiredCssProperty' => '',
     'language' => 'en',
     'isUnknownBrowserOK' => false,
